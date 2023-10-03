@@ -1,0 +1,16 @@
+{
+  "name": "electron-command-line-communication",
+  "productName": "electron-command-line-communication",
+  "description": "Test Electron communication with command line",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "agamba",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "25.4.0"
+  }
+}
